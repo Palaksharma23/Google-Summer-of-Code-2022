@@ -1,29 +1,31 @@
-<h1 align="center"> GSoC 2022 @Moja Global 
+<h1 align="center"> GSoC 2022 @<a href="https://moja.global/">Moja Global</a> 
   
-</h1>
- 
+</h1> 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/87171452/188643129-22412f75-17ef-4b98-9c1f-3767f51eca65.png"  width="500" alt="google-summer-of-code-2022"></img>
+</div>
 <br/> 
 
-| Project Name: (Building UI library for moja global)  <br/>
+| Project: <a href="https://summerofcode.withgoogle.com/programs/2022/projects/ZqYBMwQd" >(Building UI library for moja global)</a>  <br/>
  <br/> 
-| Details |    | 
+| Project Details |  Useful Links  | 
 |------------|---------| 
-| Mentor       |    Harsh Mishra, Gopinath Balakrishnan     |          
-| Student |    Palak Sharma     | 
-| Github Repository  | tick    |        
-| Npm Package      |         |            
-| Documentation     |         |             
+| Mentor       |  <a href="https://github.com/HarshCasper">Harsh Mishra</a>, <a href="https://www.linkedin.com/in/bgopi/">Gopinath Balakrishnan  </a>   |          
+| Student |    <a href="https://github.com/Palaksharma23">Palak Sharma</a>      | 
+| Github Repository for the project |<a href="https://github.com/moja-global/ui-library">GitHub</a>|        
+| Npm Package      |    <a href="https://www.npmjs.com/package/@moja-global/mojaglobal-ui">NPM</a>     |            
+| Documentation     |    <a href="https://moja-global-ui-library.vercel.app/">Storybook</a>     |             
  
 <br/>    
 
-# Project Description 
+# Project Description✍
 <p> Moja global is a not-for-profit, collaborative project that brings together a community of experts to develop open-source software that allows users to accurately and affordably estimate greenhouse gas emissions and removals from the AFOLU sector. <br/>
   
-This year in Google Summer of Code 2022 I have worked on building a faster, lightweight, user-friendly, mobile-friendly, and cross-browser-compatible UI library as a stand-alone dependency for moja global projects. I work on building a UI library having pre-written or ready-made code for various widely used components across all the repositories of moja global that future developers and users can use in their projects just by installing the package and running two or three import commands.
+This year in Google Summer of Code 2022, I have worked on building a faster, lightweight, user-friendly, mobile-friendly, and cross-browser-compatible UI library as a stand-alone dependency for moja global projects. I have worked on building a UI library having pre-written or ready-made code for various widely used components across all the repositories of moja global that future developers and users can use in their projects just by installing the package and running two or three import commands😀.
   <br/>    
 
   
-The UI library developed under this project serves the following purpose
+The UI library developed under this project serves the following purpose🎉
   
   - The UI library help in maintaining a UI consistent theme in moja global as an organization.
  - The UI library has reduced designing time for upcoming projects and it will also future help developers to focus more on the backend implementation part rather than on coding the frontend part.
@@ -32,8 +34,8 @@ The UI library developed under this project serves the following purpose
   
   <br/>    
 
-  # My Contributions 
-  The main aspects of my contributions are 
+  # My Contributions🎯
+  The main aspects of my contributions are🎓 
  
 
 |     Contribution       | Tools and Technologies used | 
@@ -49,7 +51,7 @@ The UI library developed under this project serves the following purpose
   
   <br/>    
   
-  ## Migration of existing projects from Vue2 to Vue3
+  ## Migration of existing projects from Vue2 to Vue3 🔁
   
   Initially, I worked on migrating the existing project from Vue version 2 to Vue version 3, to make them compatible to use the UI library which is based on Vue version 3 
   
@@ -62,11 +64,11 @@ The UI library developed under this project serves the following purpose
    - https://github.com/moja-global/FLINT-UI/pull/301
    - https://github.com/moja-global/FLINT-UI/pull/299 
   
-  ## Designing 
+  ## Designing🌸
   After Migration, I worked on designing the components of UI library according to the Moja Global brand guidelines. 
-  The designs can be found here 
+  The designs can be found <a href="https://www.figma.com/file/QBccI5A8ATyV5L3dDe0KmY/Components?node-id=0%3A1">here</a>
   
-  ## Implementation & Documentation 
+  ## Implementation & Documentation📝 
   I did Implementation and Documentation of the UI library simultaneously, I have added various components in the UI library with each being fully customizable, and accessible. 
   
   These are the Pull requests, I made for the Implementation and Documentation of the UI library
@@ -85,26 +87,25 @@ The UI library developed under this project serves the following purpose
    - https://github.com/moja-global/ui-library/pull/34
    - https://github.com/moja-global/ui-library/pull/45
   
-  ## Building
+  ## Building👩‍💻
   Building the UI library, is the main task of the project. I used vue rollup to build the UI library. 
   
    - https://github.com/moja-global/ui-library/pull/35
    - https://github.com/moja-global/ui-library/pull/42
   
-  ## Testing 
+  ## Testing🔍 
   For testing the components of UI library, I have given two options to test in development mode as well as while making the pull request 
   
    - https://github.com/moja-global/ui-library/pull/46
    - https://github.com/moja-global/ui-library/pull/47
   
-  ## Launch 
+  ## Launch🚀 
   We the help of my mentor, the launch of UI library has been automated. The launch happens as soon as the package version in package.json is changed. 
   
-  ## Integration of UI library into existing projects 
+  ## Integration of UI library into existing projects🎊 
   We tested the UI library by integrating it in the fresh new Vue 3 project as well as in existing mojaglobal's project. It worked as expected in both. 
   It is currently in use in FLINT UI
   
-  # Summary 
+  # Summary👩‍🎓
   
-  The overall experience of GSoC has been amazing and full of learnings. I learn many things like how to build a project from scratch, how to work with large codebase, etc. I would like to thank my mentors for always being there and helping me whenever needed. 
- 
+  The overall experience of GSoC has been amazing and full of learnings. I learn many things like how to build a project from scratch, how to work with large codebase, etc. I would like to thank my mentors for always being there and I have learnt a lot from him during the GSoC period and before🎀. 
